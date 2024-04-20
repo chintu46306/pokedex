@@ -25,6 +25,12 @@
   
     ```
 
+5. install axios
+    ```
+    npm install axios
+
+    ```
+
 
 
     
