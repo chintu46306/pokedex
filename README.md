@@ -1,3 +1,6 @@
 # Pokedex
 
-[Setup instruction](http://localhost:5173/)
+Setup instruction
+
+1. Clone the project
+    ```https://github.com/chintu46306/pokedex.git```
