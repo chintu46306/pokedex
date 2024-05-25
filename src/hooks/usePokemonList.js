@@ -24,8 +24,8 @@ function usePokemonList(type){
     
         const pokemonResults = response.data.results; // we get array of pokemons from results
     
-        console.log("response ise", response.data.pokemon); // log the data to the console
-        console.log(pokemonListState);
+       // console.log("response is", response.data.pokemon); // log the data to the console
+       // console.log(pokemonListState);
     
         setPokemonListState((state) => ({
           ...state,

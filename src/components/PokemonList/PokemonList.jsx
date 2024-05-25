@@ -12,7 +12,7 @@ function PokemonList() {
       <div className="pokemon-wrapper">
         {(pokemonListState.isLoading )? "Loading..." :
            pokemonListState.pokemonList.map((p) => 
-                <Pokemon name={p.name} image={p.image} key={p.id} id={p.id} />
+                <Pokemon name={p.name} image={p.image} key={p.id} id={p.id} />  // pass the name, image and id of each pokemon to the Pokemon component
             )}
       </div>
       <div className="controls">
