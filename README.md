@@ -10,15 +10,15 @@ Dynamic Filtering: Filter Pokémon by various criteria such as type, generation,
 Interactive UI: Enjoy a clean and interactive user interface designed for ease of use.
 
 ## Technologies Used
-Vite: For a fast development environment and optimized build process.
-React: For building dynamic and interactive user interfaces.
-CSS Modules: For scoped and maintainable styles.
-PokéAPI: To fetch real-time Pokémon data.
+Vite: For a fast development environment and optimized build process. <br>
+React: For building dynamic and interactive user interfaces. <br>
+CSS Modules: For scoped and maintainable styles. <br>
+PokéAPI: To fetch real-time Pokémon data. <br>
 
 ## Getting Started
 To get a local copy up and running, follow these simple steps.
 
-Prerequisites
+Prerequisites: <br>
 Make sure you have Node.js and npm installed on your machine.
 
 ## Setup instruction
