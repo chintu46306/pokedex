@@ -58,5 +58,9 @@ Make sure you have Node.js and npm installed on your machine.
     
     ```
 
+
+![image](https://github.com/chintu46306/pokedex/assets/103138009/5509e0c6-92d7-45b6-9128-86533b6d7ae9)
+
     
+![image](https://github.com/chintu46306/pokedex/assets/103138009/abb57a45-0461-4768-b434-30f5d1010aa3)
 
